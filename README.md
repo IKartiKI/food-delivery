@@ -44,12 +44,3 @@ Welcome to our Food Delivery App, a digital marketplace for food items built wit
 
 5. Open your browser and visit `http://localhost:3000` to access the food ordering website app.
 
-## 🖥️ Contributing
-
-We welcome contributions from the community. Please feel free to submit pull requests or report issues.
-
-## 📝 License
-
-This project is licensed under the HRC License.
-
----
