@@ -1,0 +1,45 @@
+{
+    "dishes": [
+      {
+        "name": "4 Cheese Pizza",
+        "description": "A delicious pizza topped with Mozzarella, Gouda, Feta, and Dor-blue cheese.",
+        "price": 350.00,
+        "image": "https://mistertako.ru/uploads/products/663ab868-85ec-11ea-a9ab-86b1f8341741.jpg",
+        "vegetarian": true,
+        "rating": 4.8,
+        "category": "Pizza",
+        "id": "c31de9f9-326e-42ad-4a52-08dbe683e0d4"
+      },
+      {
+        "name": "Wok a la Diablo",
+        "description": "Wheat noodles stir-fried with sausages and bell peppers. Nutritional values per 100g: Proteins – 8.18g, Fat – 16.33g, Carbohydrates – 20.62g.",
+        "price": 330.00,
+        "image": "https://mistertako.ru/uploads/products/663ab868-85ec-11ea-a9ab-86b1f8341741.jpg",
+        "vegetarian": false,
+        "rating": 5.7,
+        "category": "Wok",
+        "id": "2fb32071-5d1c-4a1b-4a4c-08dbe683e0d4"
+      },
+      {
+        "name": "Wok Bologna",
+        "description": "Wheat noodles with red onions in tomato sauce, infused with garlic and parsley. Nutritional values per 100g: Proteins – 8.07g, Fat – 15.38g, Carbohydrates – 23.22g.",
+        "price": 290.00,
+        "image": "https://mistertako.ru/uploads/products/663ab866-85ec-11ea-a9ab-86b1f8341741.jpg",
+        "vegetarian": false,
+        "rating": 6.4,
+        "category": "Wok",
+        "id": "0525e90b-2e7f-4529-4a4d-08dbe683e0d4"
+      },
+      {
+        "name": "Wok Tom Yam with Chicken",
+        "description": "Noodles with red chili and chicken, cooked in a flavorful Tom Yam sauce. Nutritional values per 100g: Proteins – 7.05g, Fat – 12.92g, Carbohydrates – 18.65g.",
+        "price": 280.00,
+        "image": "https://mistertako.ru/uploads/products/a41bd9fd-54ed-11ed-8575-0050569dbef0.jpg",
+        "vegetarian": false,
+        "rating": 5.6,
+        "category": "Wok",
+        "id": "d41bd9fd-54ed-11ed-8575-0050569dbef0"
+      }
+    ]
+  }
+  
